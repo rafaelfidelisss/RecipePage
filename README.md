@@ -19,7 +19,8 @@
 
 ## 💻 Projeto
 
-Uma simples página de receita para praticar os fundamentos de HTML, CSS, e controle de versão com Git e GitHub.
+Uma simples página da receita de um cupcake. <br>
+Projeto desenvolvido para praticar os fundamentos de HTML, CSS, e controle de versão com Git e GitHub.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
