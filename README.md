@@ -1,5 +1,5 @@
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Project_online_preview-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://rafaelfidelisss.github.io/RecipePage/src/
+[PROJECT__URL]: https://rafaelfidelisss.github.io/RecipePage/index.html
 
 <h1 align="center"> Recipe Page </h1>
 
